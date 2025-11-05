@@ -3,6 +3,12 @@
 
 @import "minima";
 
+/* Hides the top site header and navigation bar completely */
 .site-header {
-  display: none;
+  display: none !important;
+}
+
+/* Optional: tidy up top spacing after header removal */
+.page-content {
+  padding-top: 20px !important;
 }
