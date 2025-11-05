@@ -1,7 +1,3 @@
 title: "8JJ Sports"
 description: "Official sports articles and insights from 8JJ.com"
 theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
