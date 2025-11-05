@@ -1,13 +1,13 @@
 ---
-title: "8JJ Sports"
+title: "Home"
 layout: default
 ---
 
-# 🏏 Welcome to 8JJ Sports
+## 🏏 Welcome to 8JJ Sports
 
 Stay updated with the latest cricket news, match results, and insights from around the world.
 
-## 🔗 Latest Articles
+### 📰 Latest Articles
 
 - [Shafali Verma’s Semi-Final Brilliance](./shafali-verma-womens-world-cup.md)
 - [Charlotte Edwards on England’s Rebuild Plan](./charlotte-edwards-england-rebuild-plan.md)
