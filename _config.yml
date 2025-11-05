@@ -1,1 +1,11 @@
+title: "8JJ Sports"
+description: "Official sports articles and insights from 8JJ.com"
+theme: minima
+show_excerpts: false
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
+# Disable the top navigation bar
+header_pages: []
