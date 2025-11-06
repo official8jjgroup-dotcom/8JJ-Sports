@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Edwards and England’s Rebuild Plan After Women’s World Cup"
 description: "Former England captain Charlotte Edwards discusses the team’s plan for rebuilding after the Women’s World Cup and focusing on emerging players."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
