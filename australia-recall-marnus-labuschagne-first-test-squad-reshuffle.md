@@ -1,7 +1,7 @@
 ---
 title: "Australia Recall Marnus Labuschagne – First Test Squad Reshuffle"
 description: "Marnus Labuschagne earns a recall in the Australia national cricket team’s first Test squad after a strategic reshuffle ahead of the upcoming series."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
