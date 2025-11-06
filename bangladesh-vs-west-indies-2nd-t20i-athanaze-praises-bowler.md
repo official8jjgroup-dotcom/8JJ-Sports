@@ -1,7 +1,7 @@
 ---
 title: "Bangladesh vs West Indies 2nd T20I: Athanaze Praises Bowler"
 description: "West Indies cricketer Alick Athanaze commends the bowling performance after the second T20I against Bangladesh."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
