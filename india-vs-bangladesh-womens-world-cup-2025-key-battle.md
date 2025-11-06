@@ -1,7 +1,7 @@
 ---
 title: "India vs Bangladesh: Women’s World Cup 2025 – Key Battle for Semi-Final Hopes"
 description: "India and Bangladesh faced off in a crucial Women’s World Cup 2025 clash that could decide semi-final spots."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
