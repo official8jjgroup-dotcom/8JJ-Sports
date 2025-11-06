@@ -1,7 +1,7 @@
 ---
 title: "Newcastle vs Athletic Club Match Report: Dan Burn’s Impact"
 description: "Newcastle United defender Dan Burn delivered a standout showing as his team faced Athletic Club in a high-stakes encounter."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
