@@ -1,7 +1,7 @@
 ---
 title: "Man City vs Dortmund Match Report: Foden Double"
 description: "Manchester City striker Phil Foden netted a brace in a decisive encounter with Borussia Dortmund, securing the victory with his clinical finishing."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
