@@ -1,7 +1,7 @@
 ---
 title: "MI Emirates: ILT20 Season 4 – Pollard and Pooran Join"
 description: "The franchise MI Emirates announces the signing of Kieron Pollard and Nicholas Pooran ahead of ILT20 Season 4."
-date: 2025-11-05
+date: 2025-11-06
 author: "8JJ Sports"
 layout: post
 ---
