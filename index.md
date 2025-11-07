@@ -19,6 +19,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Ben Stokes Called ‘Cocky Complainer’ in Baz Bawl Headlines](./en-stokes-called-cocky-complainer-baz-bawl-headlines.md)
 - [Man City vs Dortmund Match Report: Foden Double](./man-city-vs-dortmund-match-report-foden-double.md)
 - [Newcastle vs Athletic Club Match Report: Dan Burn’s Impact](./newcastle-vs-athletic-club-match-report-dan-burn.md)
+- [Mohammed Shami Snubbed: Coach Mohammed Badruddin Slams BCCI](./mohammed-shami-snubbed-coach-badruddin-slams-bcci.md)
+- [Aman Sehrawat – WFI Ban Reconsideration: Wrestler Pleads Leniency](./aman-sehrawat-wfi-ban-reconsideration-wrestler-pleads-leniency.md)
+- [Sangram Singh Levels Fight League Debut: India’s First Wrestler-Turned-MMA Fighter](./sangram-singh-levels-fight-league-debut-indias-first-wrestler.md)
 
 ---
 
