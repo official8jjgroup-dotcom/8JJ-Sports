@@ -22,6 +22,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Mohammed Shami Snubbed: Coach Mohammed Badruddin Slams BCCI](./mohammed-shami-snubbed-coach-badruddin-slams-bcci.md)
 - [Aman Sehrawat – WFI Ban Reconsideration: Wrestler Pleads Leniency](./aman-sehrawat-wfi-ban-reconsideration-wrestler-pleads-leniency.md)
 - [Sangram Singh Levels Fight League Debut: India’s First Wrestler-Turned-MMA Fighter](./sangram-singh-levels-fight-league-debut-indias-first-wrestler.md)
+- [Aman Sehrawat Suspension: Paris Olympics Bronze Medallist Faces One-Year Ban](./aman-sehrawat-suspension-paris-olympics-bronze-medalist.md)
+- [India’s Challenge Ends at World Wrestling Championships](./indias-challenge-ends-at-world-wrestling-championships.md)
+- [Antim Panghal: World Wrestling Championships Medal – Indian Star Wins Second Bronze in Zagreb](./antim-panghal-world-wrestling-championships-medal-indian-star-wins-second-bronze.md)
 
 ---
 
