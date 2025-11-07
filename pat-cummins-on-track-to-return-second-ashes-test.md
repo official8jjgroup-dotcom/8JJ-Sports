@@ -1,7 +1,7 @@
 ---
 title: "Pat Cummins on Track to Return for Second Ashes Test"
 description: "Australia captain Pat Cummins is making promising progress in his recovery from a back injury as he eyes a comeback for the second Test of the Ashes series."
-date: 2025-11-06
+date: 2025-11-07
 author: "8JJ Sports"
 layout: post
 ---
