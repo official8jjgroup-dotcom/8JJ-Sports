@@ -3,7 +3,7 @@ title: "Home"
 layout: default
 ---
 
-## 🏏 Welcome to 8JJ Sports
+## 🏏 Welcome to 8JJ - Live Sports Scores and News & Cricket Fan Discussion Community
 
 Stay updated with the latest cricket news, match results, and insights from around the world.
 
