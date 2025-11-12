@@ -35,6 +35,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Liverpool Crisis After Man City Defeat: Roy Keane Calls Team Weak](./liverpool-crisis-after-man-city-defeat-roy-keane-calls-team-weak.md)
 - [Man City vs Liverpool 3-0: Guardiola’s 1,000th Game](./man-city-liverpool-3-0-guardiola-1000th-game.md)
 - [Akash Kumar Choudhary: Record Eight Sixes in a Row](./akash-kumar-choudhary-record-eight-sixes-in-a-row.md)
+- [Andrew Balbirnie Eyes Bangladesh Test Series as Ireland Captain](./andrew-balbirnie-bangladesh-test-series-ireland-captain.md)
+- [Najmul Hossain Shanto: Bangladesh Test Captain – Skipper Puts Country First](./najmul-hossain-shanto-bangladesh-test-captain-skipper-puts-country.md)
+- [Blessing Muzarabani Injury Rules Him Out of Pakistan T20I](./blessing-muzarabani-injury-rules-him-out-of-pakistan-t20i.md)
+- [Faruque Ahmed Hospitalised After Cardiac Arrest](./faruque-ahmed-hospitalized-after-cardiac-arrest.md)
+- [Liverpool VAR Controversy: Reds Question PGMOL Call](./liverpool-var-controversy-reds-question-pgmol-call.md)
 
 ---
 
