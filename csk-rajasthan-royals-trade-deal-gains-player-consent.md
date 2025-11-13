@@ -1,7 +1,7 @@
 ---
 title: "CSK–Rajasthan Royals Trade Deal “Gains Player Consent”"
 description: "A reported trade deal between Chennai Super Kings and Rajasthan Royals has reportedly gained player consent ahead of IPL 2026."
-date: 2025-11-10
+date: 2025-11-12
 author: "8JJ Sports"
 layout: post
 ---
