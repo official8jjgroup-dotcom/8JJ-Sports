@@ -1,7 +1,7 @@
 ---
 title: "Neymar – Referee Altercation and Heated Coach Clash"
 description: "Neymar reportedly lashed out at a referee and clashed with his coach following his team’s latest setback."
-date: 2025-11-10
+date: 2025-11-12
 author: "8JJ Sports"
 layout: post
 ---
