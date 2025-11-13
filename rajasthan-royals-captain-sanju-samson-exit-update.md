@@ -1,7 +1,7 @@
 ---
 title: "Rajasthan Royals Captain Sanju Samson Exit Update"
 description: "An update on the potential exit of Sanju Samson as captain of Rajasthan Royals ahead of IPL 2026."
-date: 2025-11-10
+date: 2025-11-13
 author: "8JJ Sports"
 layout: post
 ---
