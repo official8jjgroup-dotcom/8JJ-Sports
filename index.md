@@ -60,6 +60,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Jannik Sinner Dominates Zverev to Reach ATP Finals Semis](./jannik-sinner-atp-finals-dominates-zverev-to-reach-semis.md)
 - [Ravindra Jadeja: Special Demand in Rajasthan Royals Trade Talks](./ravindra-jadeja-special-demand-in-rajasthan-royals-trade.md)
 - [Rishabh Pant on Return After Injury: ‘God Has Been Kind’](./rishabh-pant-return-after-injury-god-has-been-kind.md)
+- [Big IPL 2026 Trade Move: Ashwin Leaks Shardul Thakur to MI](./big-ipl-2026-trade-move-ashwin-leaks-shardul-thakur-to-mi.md)
+- [South Africa Captain Receives Toss Advice from Kane Williamson](./south-africa-captain-toss-advice-from-kane-williamson.md)
+
 
 
 ---
