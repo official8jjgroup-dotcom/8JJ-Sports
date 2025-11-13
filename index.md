@@ -53,6 +53,14 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Cristiano Ronaldo FIFA World Cup 2026: Mbappé & Yamal Near](./cristiano-ronaldo-fifa-world-cup-2026-mbappe-yamal-near.m)
 - [Jaipur Pink Panthers Pangebaaz: Nitin Kumar & Aryan Kumar](./jaipur-pink-panthers-pangebaaz-nitin-kumar-and-aryan-kumar.md)
 - [Patna Pirates – Randeep Dalal Exit After PKL 12 Playoffs Run](./patna-pirates-randeep-dalal-exit-after-pkl-12-playoffs-run.md)
+- - [Sri Lanka Cricketers’ Pakistan Security Concerns Escalate](./sri-lanka-cricketers-pakistan-security-concerns-escalate.md)
+- [India vs South Africa Test Series Preview](./india-vs-south-africa-test-series.md)
+- [Coco Gauff Leads United Cup Comeback – Fritz Joins for USA vs Poland](./coco-gauff-united-cup-comeback-fritz-joins-usa-vs-poland.md)
+- [Axar Patel on Captaincy Perceptions & All-Rounder Challenges](./axar-patel-captaincy-perceptions-all-rounder-challenges.md)
+- [Jannik Sinner Dominates Zverev to Reach ATP Finals Semis](./jannik-sinner-atp-finals-dominates-zverev-to-reach-semis.md)
+- [Ravindra Jadeja: Special Demand in Rajasthan Royals Trade Talks](./ravindra-jadeja-special-demand-in-rajasthan-royals-trade.md)
+- [Rishabh Pant on Return After Injury: ‘God Has Been Kind’](./rishabh-pant-return-after-injury-god-has-been-kind.md)
+
 
 ---
 
