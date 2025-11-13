@@ -40,6 +40,19 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Blessing Muzarabani Injury Rules Him Out of Pakistan T20I](./blessing-muzarabani-injury-rules-him-out-of-pakistan-t20i.md)
 - [Faruque Ahmed Hospitalised After Cardiac Arrest](./faruque-ahmed-hospitalized-after-cardiac-arrest.md)
 - [Liverpool VAR Controversy: Reds Question PGMOL Call](./liverpool-var-controversy-reds-question-pgmol-call.md)
+- - [CSK–Rajasthan Royals Trade Deal Gains Player Consent](./csk-rajasthan-royals-trade-deal-gains-player-consent.md)
+- [Neymar Referee Altercation and Heated Coach Clash](./neymar-referee-altercation-and-heated-coach-clash.md)
+- [Rajasthan Royals Captain Sanju Samson Exit Update](./rajasthan-royals-captain-sanju-samson-exit-update.md)
+- [Kohli-Rohit: BCCI Rule Duo Told to Play Domestic Cricket](./kohli-rohit-bcci-rule-duo-told-to-play-domestic-cricket.md)
+- [Gautam Gambhir Eden Gardens Pitch Chat Revealed](./gautam-gambhir-eden-gardens-pitch-chat-revealed.md)
+- [Keshav Maharaj: South Africa Test Star on India Tour](./keshav-maharaj-south-africa-test-star-on-india-tour.md)
+- [Pakistan Opposition Shelves Two-Tier WTC Plan](./pakistan-opposition-shelves-two-tier-wtc-plan.md)
+- [Mohammad Kaif Predicts IPL Auction Winner Among Stars](./mohammad-kaif-predicts-ipl-auction-winner-among-stars.md)
+- [R Ashwin CSK–KKR–RR Trade](./r-ashwin-csk-kkr-rr-trade.md)
+- [Keshav Maharaj India Series: South Africa Star Warns](./keshav-maharaj-india-series-south-africa-star-warns.md)
+- [Cristiano Ronaldo FIFA World Cup 2026: Mbappé & Yamal Near](./cristiano-ronaldo-fifa-world-cup-2026-mbappe-yamal-near.m)
+- [Jaipur Pink Panthers Pangebaaz: Nitin Kumar & Aryan Kumar](./jaipur-pink-panthers-pangebaaz-nitin-kumar-and-aryan-kumar.md)
+- [Patna Pirates – Randeep Dalal Exit After PKL 12 Playoffs Run](./patna-pirates-randeep-dalal-exit-after-pkl-12-playoffs-run.md)
 
 ---
 
