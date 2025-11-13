@@ -62,6 +62,8 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Rishabh Pant on Return After Injury: ‘God Has Been Kind’](./rishabh-pant-return-after-injury-god-has-been-kind.md)
 - [Big IPL 2026 Trade Move: Ashwin Leaks Shardul Thakur to MI](./big-ipl-2026-trade-move-ashwin-leaks-shardul-thakur-to-mi.md)
 - [South Africa Captain Receives Toss Advice from Kane Williamson](./south-africa-captain-toss-advice-from-kane-williamson.md)
+- [Shane Watson: KKR Assistant Coach Set for Key IPL 2026 Role](./shane-watson-kkr-assistant-coach-set-for-key-ipl-2026-role.md)
+
 
 
 
