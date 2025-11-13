@@ -1,7 +1,7 @@
 ---
 title: "Gautam Gambhir: Eden Gardens Pitch Chat Revealed"
 description: "Head coach Gautam Gambhir reveals insights and chats about the Eden Gardens pitch ahead of an India home series."
-date: 2025-11-10
+date: 2025-11-13
 author: "8JJ Sports"
 layout: post
 ---
