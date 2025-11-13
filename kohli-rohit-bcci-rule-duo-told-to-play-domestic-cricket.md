@@ -1,7 +1,7 @@
 ---
 title: "Kohli & Rohit: BCCI Rule Duo Told to Play Domestic Cricket"
 description: "The BCCI has issued a rule requiring senior players Virat Kohli and Rohit Sharma to participate in domestic cricket ahead of major tournaments."
-date: 2025-11-10
+date: 2025-11-13
 author: "8JJ Sports"
 layout: post
 ---
