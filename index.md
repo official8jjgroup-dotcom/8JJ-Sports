@@ -66,6 +66,12 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Cheteshwar Pujara at No 6: India vs South Africa Pick Revealed](./cheteshwar-pujara-no-6-india-vs-south-africa-pick-revealed.md)
 - [Kabaddi Champions League: Young Talent Vision Lauded](./kabaddi-champions-league-young-talent-vision-lauded.md)
 - [Shubman Gill & Mohammed Shami Verdict Ahead of South Africa Series](./shubman-gill-mohammed-shami-verdict-ahead-of-south-africa.md)
+- [India vs South Africa 1st Test – Day 1 Live Score & Highlights](./india-vs-south-africa-1st-test-day-1-live-score.md)
+- [IPL 2026 Auction Strategy: Ashwin Lists CSK’s Targets](./ipl-2026-auction-strategy-ashwin-lists-csks.md)
+- [Aakash Chopra on Sunil Gavaskar’s Dedication](./aakash-chopra-on-sunil-gavaskars-dedication.md)
+- [Eden Gardens Pitch Report: Pace Bowling Twist in Kolkata](./eden-gardens-pitch-report-pace-bowling-twist-in-kolkata.md)
+- [Deepti Sharma Grand Welcome in Agra – Champion Returns Home](./deepti-sharma-grand-welcome-agra-champion-returns-home.md)
+
 
 
 
