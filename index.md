@@ -63,6 +63,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Big IPL 2026 Trade Move: Ashwin Leaks Shardul Thakur to MI](./big-ipl-2026-trade-move-ashwin-leaks-shardul-thakur-to-mi.md)
 - [South Africa Captain Receives Toss Advice from Kane Williamson](./south-africa-captain-toss-advice-from-kane-williamson.md)
 - [Shane Watson: KKR Assistant Coach Set for Key IPL 2026 Role](./shane-watson-kkr-assistant-coach-set-for-key-ipl-2026-role.md)
+- [Cheteshwar Pujara at No 6: India vs South Africa Pick Revealed](./cheteshwar-pujara-no-6-india-vs-south-africa-pick-revealed.md)
+- [Kabaddi Champions League: Young Talent Vision Lauded](./kabaddi-champions-league-young-talent-vision-lauded.md)
+- [Shubman Gill & Mohammed Shami Verdict Ahead of South Africa Series](./shubman-gill-mohammed-shami-verdict-ahead-of-south-africa.md)
+
 
 
 
