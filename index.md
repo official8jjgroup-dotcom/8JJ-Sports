@@ -71,7 +71,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Aakash Chopra on Sunil Gavaskar’s Dedication](./aakash-chopra-on-sunil-gavaskars-dedication.md)
 - [Eden Gardens Pitch Report: Pace Bowling Twist in Kolkata](./eden-gardens-pitch-report-pace-bowling-twist-in-kolkata.md)
 - [Deepti Sharma Grand Welcome in Agra – Champion Returns Home](./deepti-sharma-grand-welcome-agra-champion-returns-home.md)
-
+- [India vs South Africa: KL Rahul & Washington Sundar Shine on Day 2](./india-vs-south-africa-kl-rahul-washington-sundar-day-2.md)
+- [Top 5 Shocking Moves: Sanju Samson Joins CSK After Dhoni’s Era](./top-5-shocking-moves-sanju-samson-joins-csk-after-dhonis.md)
+- [Mohammed Siraj’s Game-Changing Over vs South Africa](./mohammed-sirajs-game-changing-over-vs-south-africa.md)
+- [South Africa Breaks Silence on ‘Bauna’ Remark](./south-africa-breaks-silence-on-bauna-remark.md)
 
 
 
