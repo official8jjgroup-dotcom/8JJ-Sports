@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Shubman Gill Ruled Out of 2nd Test — Sudharsan to Replace Him](./shubman-gill-ruled-out-2nd-test-sudharsan-replaces.md)
+- [PSL Controversy Deepens as Multan Sultans Owner Considers Legal Action](./psl-controversy-multan-sultans-legal-action.md)
+- [NCCIA Opens Probe into Rashid Latif Over PCB Captaincy Criticism](./nccia-probe-rashid-latif-pcb-criticism.md)
+- [Ganguly Criticizes Eden Pitch Despite Bowing to Team India’s Wish](./ganguly-criticizes-eden-pitch.md)
+- [Shai Hope First to Score Centuries Against All 12 Test Nations](./shai-hope-centuries-all-test-nations.md)
 - [Hardik Pandya Injury Updates Ahead of T20 World Cup](./hardik-pandya-injury-updates-ahead-of-t20-world-cup.md)
 - [Shafali Verma’s Semi-Final Brilliance](./shafali-verma-womens-world-cup.md)
 - [Charlotte Edwards on England’s Rebuild Plan](./charlotte-edwards-england-rebuild-plan.md)
