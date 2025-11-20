@@ -9,6 +9,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Hardik Pandya Injury Updates Ahead of T20 World Cup](./hardik-pandya-injury-updates-ahead-of-t20-world-cup.md)
 - [Shafali Verma’s Semi-Final Brilliance](./shafali-verma-womens-world-cup.md)
 - [Charlotte Edwards on England’s Rebuild Plan](./charlotte-edwards-england-rebuild-plan.md)
 - [Australia vs India: Women’s World Cup Rivals Battle Again](./australia-vs-india-womens-world-cup-rivals.md)
