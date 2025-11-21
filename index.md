@@ -9,6 +9,12 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [India Batting in Crisis? 5 Critical Decisions Under Gambhir](./india-batting-in-crisis-5-critical-decisions-under-gambhir.md)
+- [Monty Panesar Fires Back at Steve Smith Dig](./monty-panesar-fires-back-steve-smith-dig.md)
+- [Ashes Test Begins as Starc Rattles England Early](./ashes-test-begins-starc-rattles-england-early.md)
+- [Indian Boxing Surges to Record 15 Finals in Powerful World Cup Run](./indian-boxing-surges-to-record-15-finals-world-cup-run.md)
+- [Cricket Catches and Grey Areas: Does Grass Affect a Catch?](./cricket-catches-grey-areas-does-grass-affect-a-catch.md)
+- [Ashes 2025/26: Australia vs England – 1st Test Preview](./statistical-preview-aus-vs-eng-1st-test.md)
 - [Shubman Gill Ruled Out of 2nd Test — Sudharsan to Replace Him](./shubman-gill-ruled-out-2nd-test-sudharsan-replaces.md)
 - [PSL Controversy Deepens as Multan Sultans Owner Considers Legal Action](./psl-controversy-multan-sultans-legal-action.md)
 - [NCCIA Opens Probe into Rashid Latif Over PCB Captaincy Criticism](./nccia-probe-rashid-latif-pcb-criticism.md)
