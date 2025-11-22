@@ -9,6 +9,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Nikhat Zareen Wins World Cup Boxing Gold](./nikhat-zareen-wins-world-cup-boxing-gold.md)
 - [India Batting in Crisis? 5 Critical Decisions Under Gambhir](./india-batting-in-crisis-5-critical-decisions-under-gambhir.md)
 - [Monty Panesar Fires Back at Steve Smith Dig](./monty-panesar-fires-back-steve-smith-dig.md)
 - [Ashes Test Begins as Starc Rattles England Early](./ashes-test-begins-starc-rattles-england-early.md)
