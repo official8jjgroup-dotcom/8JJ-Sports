@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Vaibhav Suryavanshi Super Over Snub Explained by India A Captain](./vaibhav-suryavanshi-super-over-snub-explained.md)
+- [India vs South Africa 2nd Test Live Streaming And Telecast Guide](./india-vs-south-africa-2nd-test-live-streaming.md)
+- [Ashes Test Drama: Australia vs England Day 2 Intensifies](./ashes-test-drama-australia-vs-england-day-2-intensifies.md)
+- [Shubman Gill Absence Creates Big Test Challenge for India](./shubman-gill-absence-creates-big-test-challenge-for-india.md)
+- [India Squad Announced for AFC U17 Asian Cup 2026 Qualifiers](./india-squad-announced-for-afc-u17-qualifiers.md)
 - [Nikhat Zareen Wins World Cup Boxing Gold](./nikhat-zareen-wins-world-cup-boxing-gold.md)
 - [India Batting in Crisis? 5 Critical Decisions Under Gambhir](./india-batting-in-crisis-5-critical-decisions-under-gambhir.md)
 - [Monty Panesar Fires Back at Steve Smith Dig](./monty-panesar-fires-back-steve-smith-dig.md)
