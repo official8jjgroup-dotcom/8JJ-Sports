@@ -1,6 +1,6 @@
 ---
 title: "Sunil Gavaskar Calls Virat Kohli the Greatest ODI Batter"
-description: "Former footballer and pundit Roy Keane brands Liverpool’s performance ‘really weak’ after their 3-0 defeat to Manchester City."
+description: "Virat Kohli’s stunning ODI century sparks an epic reaction from Rohit Sharma."
 date: 2025-12-01
 author: "8JJ Sports"
 layout: post
