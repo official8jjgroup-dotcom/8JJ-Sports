@@ -100,8 +100,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Top 5 Shocking Moves: Sanju Samson Joins CSK After Dhoni’s Era](./top-5-shocking-moves-sanju-samson-joins-csk-after-dhonis.md)
 - [Mohammed Siraj’s Game-Changing Over vs South Africa](./mohammed-sirajs-game-changing-over-vs-south-africa.md)
 - [South Africa Breaks Silence on ‘Bauna’ Remark](./south-africa-breaks-silence-on-bauna-remark.md)
-
-
+- [Reactions to Virat Kohli’s Century That Stunned Fans](./reactions-to-virat-kohlis-century-that-stunned-fans.md)
+- [Sunil Gavaskar Calls Virat Kohli the Greatest ODI Batter](./sunil-gavaskar-calls-virat-kohli-the-greatest-odi-batter.md)
+- [Virat Kohli’s Record ODI Century](./virat-kohlis-record-odi-century.md)
 
 
 
