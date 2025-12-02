@@ -11,7 +11,7 @@ layout: post
 This growing rift raises concerns over team unity and the stability of the national setup, putting the spotlight on internal conflicts that could impact the sport.
 
 You can read the **full original article on 8jj.com** here:  
-👉 [Virat Kohli: Dale Steyn Praises His 38-Year-Old ODI Brilliance](https://8jjsports.com/virat-kohli-dale-steyn-praises-his-38-year-old-odi/)
+👉 [Shocking Truths Behind the Gambhir Kohli Rift](https://8jj.com/shocking-truths-behind-the-gambhir-kohli-rift/)
 
 ---
 
