@@ -108,6 +108,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Powerful Reasons Virat Kohli Silenced Critics Again](./powerful-reasons-virat-kohli-silenced-critics.md)
 - [R Ashwin Mocks Selectors After Ignored Star’s 130](./r-ashwin-mocks-selectors-ignored-star-130.md)
 - [Jemimah Rodrigues Opens Up: WhatsApp Drama Before World Cup Final](./jemimah-rodrigues-world-cup-drama.md)
+- [“You Will Lose”: Mohammad Kaif Hails Virat Kohli-Rohit Sharma Partnership in India’s Win Against South Africa](./you-will-lose-virat-kohli-rohit-sharma-partnership.md)
+- [Ravi Shastri Advises Gautam Gambhir: “You Could Be Fired” – Tips for Handling Pressure](./ravi-shastri-advises-gautam-gambhir-tips-for-handling-pressure.md)
+- [Gautam Gambhir Rift Behind India’s Growing Conflict](./gautam-gambhir-rift-behind-indias-growing-conflict.md)
+- [Usman Khawaja Injury Updates Ahead of Ashes Test](./usman-khawaja-injury-updates-ahead-of-ashes-test.md)
+- [Virat Kohli U-Turns: Confirms Return to Vijay Hazare Trophy After Initial Refusal](./virat-kohli-vijay-hazare-return.md)
 
 
 
