@@ -9,7 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
-
+- [South Africa Seal Highest ODI Chase vs India](./south-africa-highest-odi-chase.md)
+- [Rohit Sharma Handshake Truths Behind the Viral Claim](./rohit-sharma-handshake-truths-behind-the-viral-claim.md)
+- [Virat Kohli’s Viral Naagin Dance](./virat-kohli-viral-naagin-dance.md)
 - [Shubman Gill Injury Update: Recovery Timeline and Impact on India](./shubman-gill-injury-update-recovery-timeline-and-impact-on-india.md)
 - [Ashes 2025 Opener: Shortest Test in Over a Century Ends in 2 Days](./ashes-2025-opener-shortest-test-in-over-a-century-ends-in-2-days.md)
 - [India vs South Africa: 5 Key Lessons From Ravi Shastri's Bold Tactical Advice](./india-vs-south-africa-5-key-lessons-from-ravi-shastris-bold-tactical-advice.md)
@@ -113,7 +115,6 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Gautam Gambhir Rift Behind India’s Growing Conflict](./gautam-gambhir-rift-behind-indias-growing-conflict.md)
 - [Usman Khawaja Injury Updates Ahead of Ashes Test](./usman-khawaja-injury-updates-ahead-of-ashes-test.md)
 - [Virat Kohli U-Turns: Confirms Return to Vijay Hazare Trophy After Initial Refusal](./virat-kohli-vijay-hazare-return.md)
-
 
 
 ---
