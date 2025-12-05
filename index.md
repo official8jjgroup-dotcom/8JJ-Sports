@@ -9,6 +9,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Hardik Pandya Sparks Venue Shift in SMAT Clash](./hardik-pandya-sparks-venue-shift-in-smat-clash.md)
+- [Nathan Lyon ‘Filthy’ After Ashes Axing](./nathan-lyon-filthy-after-ashes-axing.md)
+- [Ravindra Jadeja Faces Criticism After SA ODI](./ravindra-jadeja-faces-criticism-after-sa-odi.md)
+- [Virat Kohli’s Comeback: 3 Key Insights from Ashwin](./virat-kohli-comeback-ashwin-insights.md)
 - [South Africa Seal Highest ODI Chase vs India](./south-africa-highest-odi-chase.md)
 - [Rohit Sharma Handshake Truths Behind the Viral Claim](./rohit-sharma-handshake-truths-behind-the-viral-claim.md)
 - [Virat Kohli’s Viral Naagin Dance](./virat-kohli-viral-naagin-dance.md)
