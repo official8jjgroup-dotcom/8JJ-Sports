@@ -5,7 +5,7 @@ description: "Ravindra Jadeja faces criticism following India's loss to South Af
 date: 2025-12-05
 author: "8JJ Sports"
 layout: post
-----
+---
 
 # Ravindra Jadeja Faces Criticism After SA ODI
 
