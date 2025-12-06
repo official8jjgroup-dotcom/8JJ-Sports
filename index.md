@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Ruturaj Gaikwad Shines Despite 2nd ODI Loss](./ruturaj-gaikwad-shines-despite-2nd-odi-loss.md)
+- [Harbhajan Singh Slams Management Amid Virat Kohli, Rohit Sharma ODI Future Talks](./harbhajan-singh-slams-management-amid-virat-kohli-rohit-sharma-odi-future-talks.md)
+- [Ravichandran Ashwin Forgetting Shubman Gill in 2027 ODI Top-4](./ravichandran-ashwin-forgetting-shubman-gill-in-2027-odi-top-4.md)
 - [Hardik Pandya Sparks Venue Shift in SMAT Clash](./hardik-pandya-sparks-venue-shift-in-smat-clash.md)
 - [Nathan Lyon ‘Filthy’ After Ashes Axing](./nathan-lyon-filthy-after-ashes-axing.md)
 - [Ravindra Jadeja Faces Criticism After SA ODI](./ravindra-jadeja-faces-criticism-after-sa-odi.md)
