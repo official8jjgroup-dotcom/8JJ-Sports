@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Virat Kohli Visits Temple in Visakhapatnam](./Virat-Kohli-Visits-Temple-in-Visakhapatnam.md)
+- [Virat Kohli Smashes Most Sixes in ODI Series](./Virat-Kohli-Smashes-Most-Sixes-in-ODI-Series.md)
+- [Pratika Rawal Receives Rs 2 Crore After Women’s World Cup Win](./Pratika-Rawal-2Crore-WWC.md)
 - [Ruturaj Gaikwad Shines Despite 2nd ODI Loss](./ruturaj-gaikwad-shines-despite-2nd-odi-loss.md)
 - [Harbhajan Singh Slams Management Amid Virat Kohli, Rohit Sharma ODI Future Talks](./harbhajan-singh-slams-management-amid-virat-kohli-rohit-sharma-odi-future-talks.md)
 - [Ravichandran Ashwin Forgetting Shubman Gill in 2027 ODI Top-4](./ravichandran-ashwin-forgetting-shubman-gill-in-2027-odi-top-4.md)
