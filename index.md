@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Pat Cummins Set To Return, Hazlewood Ruled Out Of Ashes](./pat-cummins-set-to-return-hazlewood-ruled-out-of-ashes.md)
+- [Abhishek Sharma Is a Key Threat, Says Markram](./abhishek-sharma-is-a-key-threat-says-markram.md)
+- [Jofra Archer Was Slammed By Matthew Hayden](./jofra-archer-was-slammed-by-matthew-hayden.md)
+- [Shubman Gill’s Powerful Comeback Training](./shubman-gills-powerful-comeback-training.md)
+- [Mohammed Shami Deserves India Recall](./mohammed-shami-deserves-india-recall.md)
 - [Virat Kohli Visits Temple in Visakhapatnam](./Virat-Kohli-Visits-Temple-in-Visakhapatnam.md)
 - [Virat Kohli Smashes Most Sixes in ODI Series](./Virat-Kohli-Smashes-Most-Sixes-in-ODI-Series.md)
 - [Pratika Rawal Receives Rs 2 Crore After Women’s World Cup Win](./Pratika-Rawal-2Crore-WWC.md)
