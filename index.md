@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Suryakumar Yadav Demands Fearless Approach After 101-Run Win](./suryakumar-yadav-fearless-approach-after-101-run-win.md)
+- [Hardik Pandya Stars As India Crush South Africa By 101 Runs, SA Record Lowest T20I Total](./hardik-pandya-stars-india-crush-sa-101-runs-lowest-t20i-total.md)
+- [Rohit Sharma Surpasses Afridi’s ODI Sixes Record](./rohit-sharma-surpasses-afridi-odi-sixes-record.md)
 - [Pat Cummins Set To Return, Hazlewood Ruled Out Of Ashes](./pat-cummins-set-to-return-hazlewood-ruled-out-of-ashes.md)
 - [Abhishek Sharma Is a Key Threat, Says Markram](./abhishek-sharma-is-a-key-threat-says-markram.md)
 - [Jofra Archer Was Slammed By Matthew Hayden](./jofra-archer-was-slammed-by-matthew-hayden.md)
