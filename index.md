@@ -9,6 +9,7 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Suryakumar Yadav Faces Brutal Reality Check Ahead of T20 World Cup](./suryakumar-yadav-reality-check-t20.md)
 - [Suryakumar Yadav Demands Fearless Approach After 101-Run Win](./suryakumar-yadav-fearless-approach-after-101-run-win.md)
 - [Hardik Pandya Stars As India Crush South Africa By 101 Runs, SA Record Lowest T20I Total](./hardik-pandya-stars-india-crush-sa-101-runs-lowest-t20i-total.md)
 - [Rohit Sharma Surpasses Afridi’s ODI Sixes Record](./rohit-sharma-surpasses-afridi-odi-sixes-record.md)
