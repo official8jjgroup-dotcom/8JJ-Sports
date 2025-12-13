@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Ashish Nehra Defends Shubman Gill Amid T20I Criticism Ahead Of IPL 2026](./ipl-2026-build-up-ashish-nehra-defends-shubman-gill.md)
+- [Gautam Gambhir’s Coaching Sparks Chaos in 2nd T20I](./gautam-gambhirs-coaching-sparks-chaos-in-2nd-t20i.md)
+- [Bangladesh Cricketer Charged: 5 Key Facts on Tofael Raihan Case](./bangladesh-cricketer-charged-5-key-facts-on-tofael-raihan-case.md)
 - [Suryakumar Yadav Faces Brutal Reality Check Ahead of T20 World Cup](./suryakumar-yadav-reality-check-t20.md)
 - [Suryakumar Yadav Demands Fearless Approach After 101-Run Win](./suryakumar-yadav-fearless-approach-after-101-run-win.md)
 - [Hardik Pandya Stars As India Crush South Africa By 101 Runs, SA Record Lowest T20I Total](./hardik-pandya-stars-india-crush-sa-101-runs-lowest-t20i-total.md)
