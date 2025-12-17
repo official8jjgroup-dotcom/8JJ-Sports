@@ -137,6 +137,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Gautam Gambhir Rift Behind India’s Growing Conflict](./gautam-gambhir-rift-behind-indias-growing-conflict.md)
 - [Usman Khawaja Injury Updates Ahead of Ashes Test](./usman-khawaja-injury-updates-ahead-of-ashes-test.md)
 - [Virat Kohli U-Turns: Confirms Return to Vijay Hazare Trophy After Initial Refusal](./virat-kohli-vijay-hazare-return.md)
+- [Hussain and Subhan Lead Pakistan U-19s Into Asia Cup Semi-Finals](./ahmed-hussain-abdul-subhan-pakistan-u19s-asia-cup.md)
+- [Ravi Bishnoi Joins Rajasthan Royals Ahead of IPL 2026](./ravi-bishnoi-rajasthan-royals-ipl-2026.md)
+- [Ruben Amorim Warns After Manchester United 4-4 Draw](./ruben-amorim-man-united-4-4-draw.md)
+- [Ousmane Dembélé Wins Best FIFA Men’s Player 2025](./ousmane-dembele-best-fifa-mens-player-2025.md)
 
 
 ---
