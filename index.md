@@ -141,6 +141,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Ravi Bishnoi Joins Rajasthan Royals Ahead of IPL 2026](./ravi-bishnoi-rajasthan-royals-ipl-2026.md)
 - [Ruben Amorim Warns After Manchester United 4-4 Draw](./ruben-amorim-man-united-4-4-draw.md)
 - [Ousmane Dembélé Wins Best FIFA Men’s Player 2025](./ousmane-dembele-best-fifa-mens-player-2025.md)
+- [Guardiola’s Gesture Toward Andrews Stands Out in Man City Controversy](./guardiola-positive-gesture-andrews-man-city-controversy.md)
+- [Adelaide Strikers Edge Sixers in Thrilling SCG BBL Encounter](./adelaide-strikers-beat-sixers-bbl-thriller.md)
+- [Carlos Alcaraz Ends Seven-Year Partnership With Coach Juan Carlos Ferrero](./carlos-alcaraz-splits-with-juan-carlos-ferrero.md)
 
 
 ---
