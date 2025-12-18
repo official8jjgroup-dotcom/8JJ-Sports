@@ -9,7 +9,6 @@ layout: post
 
 Adelaide Strikers chased down 160 to defeat Sydney Sixers by three wickets in a tense BBL clash, ending a long SCG drought. Liam Scott, Jamie Overton, and Luke Wood delivered decisive performances to swing the contest in Strikers’ favor.
 
----
 You can read the **full original article on 8jj.com** here:  
 👉 [5 Reasons Adelaide Strikers Triumphed Over Sixers in Thrilling BBL Clash](https://8jj.com/adelaide-strikers-defeat-sydney-sixers-in-bbl/)
 ---
