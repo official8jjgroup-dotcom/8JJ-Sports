@@ -9,7 +9,6 @@ layout: post
 
 Pep Guardiola chose dialogue over dispute after a contentious refereeing call, inviting Brentford coach Keith Andrews for discussions at City’s training ground. The gesture followed a debated challenge involving Abdukodir Khusanov and underscored a professional approach to resolving on-field controversies.
 
----
 You can read the **full original article on 8jj.com** here:  
 👉 [5 Reasons Guardiola’s Positive Gesture with Andrews Stands Out Amid Man City Controversy](https://8jj.com/man-city-controversy-pep-invites-andrews-for-discussion/)
 ---
