@@ -11,7 +11,7 @@ Pep Guardiola chose dialogue over dispute after a contentious refereeing call, i
 
 ---
 You can read the **full original article on 8jj.com** here:  
-👉 [5 Reasons Guardiola’s Positive Gesture with Andrews Stands Out Amid Man City Controversy](https://8jj.com/guardiolas-positive-gesture-andrews-man-city-controversy/)
+👉 [5 Reasons Guardiola’s Positive Gesture with Andrews Stands Out Amid Man City Controversy](https://8jj.com/man-city-controversy-pep-invites-andrews-for-discussion/)
 ---
 ## Related Reading   
 - Visit [8jj.com](https://8jj.com/) for more sports stories and updates.
