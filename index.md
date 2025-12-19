@@ -144,6 +144,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Guardiola’s Gesture Toward Andrews Stands Out in Man City Controversy](./guardiola-positive-gesture-andrews-man-city-controversy.md)
 - [Adelaide Strikers Edge Sixers in Thrilling SCG BBL Encounter](./adelaide-strikers-beat-sixers-bbl-thriller.md)
 - [Carlos Alcaraz Ends Seven-Year Partnership With Coach Juan Carlos Ferrero](./carlos-alcaraz-splits-with-juan-carlos-ferrero.md)
+- [2026 World Cup Sets Record $50M Prize for Champions](./2026-world-cup-record-50m-champion-prize.md)
+- [Ishan Kishan Powers Jharkhand to Historic SMAT Title](./ishan-kishan-powers-jharkhand-smat-title.md)
+- [AFCON 2025 Kicks Off in Morocco With High-Stakes Drama](./afcon-2025-kicks-off-morocco.md)
+
 
 
 ---
