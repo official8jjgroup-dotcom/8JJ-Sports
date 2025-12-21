@@ -12,7 +12,7 @@ The exclusion of Shubman Gill from India’s T20 World Cup squad underscores a d
 
 ---
 You can read the **full original article on 8jj.com** here:  
-👉 [5 Bold Claims Why Gambhir Gill Snub Signals a Ruthless Shift](https://8jj.com/gambhir-gill-snub-ruthless-shift/)
+👉 [5 Bold Claims Why Gambhir Gill Snub Signals a Ruthless Shift](https://8jj.com/5-bold-claims-gambhir-gill-snub-ruthless-shift/)
 ---
 ## Related Reading   
 - Visit [8jj.com](https://8jj.com/) for more sports stories and updates.
