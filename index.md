@@ -147,6 +147,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [2026 World Cup Sets Record $50M Prize for Champions](./2026-world-cup-record-50m-champion-prize.md)
 - [Ishan Kishan Powers Jharkhand to Historic SMAT Title](./ishan-kishan-powers-jharkhand-smat-title.md)
 - [AFCON 2025 Kicks Off in Morocco With High-Stakes Drama](./afcon-2025-kicks-off-morocco.md)
+- [Wawrinka Retirement Confirms Emotional Final Season in 2026](./wawrinka-retirement-final-season.md)
+- [Gambhir Gill Snub Signals a Ruthless Shift in India’s T20 Vision](./gambhir-gill-snub-ruthless-shift.md)
+- [Why the Xavi Simons Red Card Decision Was Correct](./xavi-simons-red-decision-right.md)
+
 
 
 
