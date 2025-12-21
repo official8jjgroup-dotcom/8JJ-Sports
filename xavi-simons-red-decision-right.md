@@ -12,7 +12,7 @@ The red card shown to Xavi Simons after VAR review aligned fully with the Laws o
 
 ---
 You can read the **full original article on 8jj.com** here:  
-👉 [5 Proven Reasons Xavi Simons Red Decision Was Absolutely Right](https://8jj.com/xavi-simons-red-decision-right/)
+👉 [5 Proven Reasons Xavi Simons Red Decision Was Absolutely Right](https://8jj.com/5-proven-reasons-xavi-simons-red-decision-right/)
 ---
 ## Related Reading   
 - Visit [8jj.com](https://8jj.com/) for more sports stories and updates.
