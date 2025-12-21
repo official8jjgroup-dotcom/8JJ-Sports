@@ -12,7 +12,7 @@ Stan Wawrinka has officially announced that the 2026 season will mark the end of
 
 ---
 You can read the **full original article on 8jj.com** here:  
-👉 [5 Defining Moments as Wawrinka Retirement Confirms Emotional Final Season](https://8jj.com/wawrinka-retirement-final-season/)
+👉 [5 Defining Moments as Wawrinka Retirement Confirms Emotional Final Season](https://8jj.com/5-defining-moments-wawrinka-retirement-final-season/)
 ---
 ## Related Reading   
 - Visit [8jj.com](https://8jj.com/) for more sports stories and updates.
