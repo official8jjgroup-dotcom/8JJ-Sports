@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Ben Stokes Speaks Out: Honest Admissions After Ashes Defeat](./ben-stokes-speaks-out-honest-admissions-after-ashes-defeat.md)
+- [SA20 Preview: Key Questions for Paarl Royals and Joburg Super Kings](./sa20-preview-key-questions-for-paarl-royals-and-joburg-super-kings.md)
+- [Ashes Alarm: Concerns Grow as Cummins and Lyon Doubtful for Boxing Day Test](./ashes-alarm-concerns-grow-as-cummins-and-lyon-doubtful-for-boxing-day-test.md)
 - [Ashish Nehra Defends Shubman Gill Amid T20I Criticism Ahead Of IPL 2026](./ipl-2026-build-up-ashish-nehra-defends-shubman-gill.md)
 - [Gautam Gambhir’s Coaching Sparks Chaos in 2nd T20I](./gautam-gambhirs-coaching-sparks-chaos-in-2nd-t20i.md)
 - [Bangladesh Cricketer Charged: 5 Key Facts on Tofael Raihan Case](./bangladesh-cricketer-charged-5-key-facts-on-tofael-raihan-case.md)
