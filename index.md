@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [MS Dhoni's Impact on Amit Mishra's Career: Ex-India Spinner Opens Up](./ms-dhonis-impact-on-amit-mishras-career-ex-india-spinner-opens-up-amd.md)
+- [Sethu FC and Garhwal FC Win as IWL 2025-26 Kicks Off to Quiet Start](./sethu-fc-and-garhwal-fc-win-as-iwl-2025-26-kicks-off-to-quiet-start.md)
+- [RCB’s Sensational Coup: Jacob Duffy’s 81 Wickets and Praise from R Ashwin](./rcb-sensational-coup-jacob-duffy’s-81-wickets-and-praise-from-r-ashwin.md)
 - [Ben Stokes Speaks Out: Honest Admissions After Ashes Defeat](./ben-stokes-speaks-out-honest-admissions-after-ashes-defeat.md)
 - [SA20 Preview: Key Questions for Paarl Royals and Joburg Super Kings](./sa20-preview-key-questions-for-paarl-royals-and-joburg-super-kings.md)
 - [Ashes Alarm: Concerns Grow as Cummins and Lyon Doubtful for Boxing Day Test](./ashes-alarm-concerns-grow-as-cummins-and-lyon-doubtful-for-boxing-day-test.md)
