@@ -9,6 +9,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Rohit Sharma & Virat Kohli Smash Stunning 100 on Vijay Hazare Return](./rohit-sharma-virat-kohli-smash-stunning-100-on-vijay-hazare-return.md)
+- [Virat Kohli Historic 16,000 Runs Milestone in Vijay Hazare Trophy](./virat-kohli-historic-16000-runs-milestone-in-vijay-hazare-trophy.md)
+- [Mumbai vs Sikkim Live Cricket Updates: Vijay Hazare Trophy 2025/26](./mumbai-vs-sikkim-live-cricket-updates-vijay-hazare-trophy-2025-26.md)
+- [1 Disappointing Era? Harbhajan & Moody Criticize Virat Kohli’s White-Ball Captaincy](./disappointing-era-harbhajan-moody-criticize-virat-kohlis-white-ball-captaincy.md)
 - [MS Dhoni's Impact on Amit Mishra's Career: Ex-India Spinner Opens Up](./ms-dhonis-impact-on-amit-mishras-career-ex-india-spinner-opens-up-amd.md)
 - [Sethu FC and Garhwal FC Win as IWL 2025-26 Kicks Off to Quiet Start](./sethu-fc-and-garhwal-fc-win-as-iwl-2025-26-kicks-off-to-quiet-start.md)
 - [RCB’s Sensational Coup: Jacob Duffy’s 81 Wickets and Praise from R Ashwin](./rcb-sensational-coup-jacob-duffy’s-81-wickets-and-praise-from-r-ashwin.md)
