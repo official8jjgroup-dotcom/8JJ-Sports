@@ -160,6 +160,10 @@ Stay updated with the latest cricket news, match results, and insights from arou
 - [Wawrinka Retirement Confirms Emotional Final Season in 2026](./wawrinka-retirement-final-season.md)
 - [Gambhir Gill Snub Signals a Ruthless Shift in India’s T20 Vision](./gambhir-gill-snub-ruthless-shift.md)
 - [Why the Xavi Simons Red Card Decision Was Correct](./xavi-simons-red-decision-right.md)
+- [Juventus Edge Past Pisa in Gritty Serie A Battle](./juventus-win-over-pisa-serie-a-turning-points.md)
+- [Indian Young Athletes Redefine Sporting Excellence in 2025](./indian-young-athletes-historic-breakthroughs-2025.md)
+- [Diogo Jota Honoured in Emotional Liverpool vs Wolves Night](./diogo-jota-remembered-liverpool-vs-wolves-tribute.md)
+
 
 
 
