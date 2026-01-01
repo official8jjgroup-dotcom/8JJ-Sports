@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Deepti Sharma’s Proven Record: India Seal 5-0 T20I Sweep in Dominant Style](./deepti-sharma-proven-record-india-seal-5-0-t20i-sweep-dominant-style.md)
+- [ECB Verdict Revealed: Ultimate Relief After Ashes Drinking Probe](./ecb-verdict-revealed-ultimate-relief-after-ashes-drinking-probe.md)
+- [Vijay Hazare Trophy Live: Ultimate Focus on Jaiswal as Shami Strikes Early](./vijay-hazare-trophy-live-focus-on-jaiswal-as-shami-strikes.md)
 - [Rohit Sharma & Virat Kohli Smash Stunning 100 on Vijay Hazare Return](./rohit-sharma-virat-kohli-smash-stunning-100-on-vijay-hazare-return.md)
 - [Virat Kohli Historic 16,000 Runs Milestone in Vijay Hazare Trophy](./virat-kohli-historic-16000-runs-milestone-in-vijay-hazare-trophy.md)
 - [Mumbai vs Sikkim Live Cricket Updates: Vijay Hazare Trophy 2025/26](./mumbai-vs-sikkim-live-cricket-updates-vijay-hazare-trophy-2025-26.md)
