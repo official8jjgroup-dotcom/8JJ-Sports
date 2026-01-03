@@ -9,6 +9,9 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Brendon McCullum Pressure: 6 Hard Truths After Ashes Collapse](./brendon-mccullum-pressure-6-hard-truths-after-ashes-collapse.md)
+- [India Women T20: WPL Preparations Boost Team India Ahead of World Cup](./india-women-t20-wpl-preparations-boost-team-india-ahead-of-world-cup.md)
+- [India ODIs: Big Snubs and Mohammed Shami’s Expected Comeback](./india-odis-big-snubs-and-mohammed-shamis-expected-comeback.md)
 - [Deepti Sharma’s Proven Record: India Seal 5-0 T20I Sweep in Dominant Style](./deepti-sharma-proven-record-india-seal-5-0-t20i-sweep-dominant-style.md)
 - [ECB Verdict Revealed: Ultimate Relief After Ashes Drinking Probe](./ecb-verdict-revealed-ultimate-relief-after-ashes-drinking-probe.md)
 - [Vijay Hazare Trophy Live: Ultimate Focus on Jaiswal as Shami Strikes Early](./vijay-hazare-trophy-live-focus-on-jaiswal-as-shami-strikes.md)
