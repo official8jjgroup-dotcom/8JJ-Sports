@@ -9,6 +9,12 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [AB de Villiers T20 World Cup Verdict Sparks Selection Debate](./ab-de-villiers-worldcup-debate.md)
+- [Neymar’s Luxury Fleet and Santos Triumph: Inside the $525 Million Collection](./neymar-cars-santos-win.md)
+- [Lionel Messi’s Ultimate Post-Retirement Plan: From Player to Club Owner](./messi-player-to-owner.md)
+- [Travis Head Double Ton Miss: 6 Brutally Honest Ashes Moments](./travis-head-ashes-moments.md)
+- [Juventus Serie A Revival: 7 Crucial Wins in the Champions League Hunt](./juventus-champions-league-hunt.md)
+- [England Dumb Cricket Shot in Ashes Test Drama](./england-ashes-cricket-drama.md)
 - [Brendon McCullum Pressure: 6 Hard Truths After Ashes Collapse](./brendon-mccullum-pressure-6-hard-truths-after-ashes-collapse.md)
 - [India Women T20: WPL Preparations Boost Team India Ahead of World Cup](./india-women-t20-wpl-preparations-boost-team-india-ahead-of-world-cup.md)
 - [India ODIs: Big Snubs and Mohammed Shami’s Expected Comeback](./india-odis-big-snubs-and-mohammed-shamis-expected-comeback.md)
