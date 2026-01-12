@@ -9,6 +9,13 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Shubman Gill Reveals Truth About Team India Seniors](./shubman-gill-reveals-truth-about-team-india-seniors.md)
+- [Australia Test Stars Boost BBL](./australia-test-stars-boost-bbl.md)
+- [Shubman Gill Reflects on T20 World Cup Snub and Test Prep](./shubman-gill-reflects-on-t20-world-cup-snub-and-test-prep.md)
+- [Pooja Vastrakar Out for Two Weeks With Hamstring Injury](./pooja-vastrakar-out-for-two-weeks-with-hamstring-injury.md)
+- [Najmul Hossain Speaks on Bangladesh World Cup Stress](./najmul-hossain-speaks-on-bangladesh-world-cup-stress.md)
+- [Rishabh Pant Ruled Out of India vs New Zealand ODIs](./rishabh-pant-ruled-out-of-india-vs-new-zealand-odis.md)
+- [Andy Flower Could Return as England Coach, Suggests Pietersen](./andy-flower-could-return-as-england-coach-suggests-pietersen.md)
 - [Ruturaj Gaikwad Record: Ultimate List A Feat Breaks Michael Bevan Mark](./ruturaj-gaikwad-record-ultimate-list-a-feat-breaks-michael-bevan-mark.md)
 - [David Beckham Family Drama: Exclusive Update On Brooklyn’s Legal Notice](./david-beckham-family-drama-exclusive-update-on-brooklyns-legal-notice.md)
 - [Vaibhav Suryavanshi Century Redefines Indian Youth Cricket](./vaibhav-suryavanshi-century-indian-youth-cricket.md)
