@@ -9,6 +9,14 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Sri Lanka Cricket Shines In High-Octane 12-Over Match Against Pakistan](./sri-lanka-cricket-shines-in-high-octane-12-over-match-against-pakistan.md)
+- [Virat Kohli Crowd Reaction Sparks Honest Debate After Rohit Sharma Dismissal](./virat-kohli-crowd-reaction-sparks-honest-debate-after-rohit-sharma-dismissal.md)
+- [Bangladesh T20 World Cup Venues: ICC Proposes Alternatives Amid Security Concerns](./bangladesh-t20-world-cup-venues-icc-proposes-alternatives-amid-security-concerns.md)
+- [Chelsea FA Cup New Era: Rosenior Impresses With 5-1 FA Cup Rout](./chelsea-fa-cup-new-era-rosenior-impresses-with-5-1-fa-cup-rout.md)
+- [Manchester United FA Cup Exit: Shocking Defeat As Arsenal Star Nets Hat-Trick](./manchester-united-fa-cup-exit-shocking-defeat-as-arsenal-star-nets-hat-trick.md)
+- [India New Zealand ODI Thriller: Kohli Misses Ton, Rahul Seals Dramatic Win](./india-new-zealand-odi-thriller-kohli-misses-ton-rahul-seals-dramatic-win.md)
+- [Virat Kohli Catch Shocks Vadodara: Stunning Moment Denies 85th Ton](./virat-kohli-catch-shocks-vadodara-stunning-moment-denies-85th-ton.md)
+- [Bangladesh Crisis Deepens: 5 Shocking Financial Blows Amid India Conflict](./bangladesh-crisis-deepens-5-shocking-financial-blows-amid-india-conflict.md)
 - [Shubman Gill Reveals Truth About Team India Seniors](./shubman-gill-reveals-truth-about-team-india-seniors.md)
 - [Australia Test Stars Boost BBL](./australia-test-stars-boost-bbl.md)
 - [Shubman Gill Reflects on T20 World Cup Snub and Test Prep](./shubman-gill-reflects-on-t20-world-cup-snub-and-test-prep.md)
