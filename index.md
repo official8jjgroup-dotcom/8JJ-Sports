@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Delhi Capitals Claim First Win of WPL 2026 With Lizelle Lee Blitz](./delhi-capitals-claim-first-win-of-wpl-2026-with-lizelle-lee-blitz.md)
+- [Tamim Iqbal Controversy: BCB Announces Disciplinary Action in the IPL 2026](./tamim-iqbal-controversy-bcb-announces-disciplinary-action-in-the-ipl-2026.md)
+- [Virat Kohli Ahead of Rohit Sharma: Ex-India Star Explains](./virat-kohli-ahead-of-rohit-sharma-ex-india-star-explains.md)
+- [Sanju Samson Trade Bombshell: 5 Shocking Reasons Revealed](./sanju-samson-trade-bombshell-5-shocking-reasons-revealed.md)
+- [Sahibzada Farhan Sparks Outrage Choosing Ahmed Shehzad Over Legends](./sahibzada-farhan-sparks-outrage-choosing-ahmed-shehzad-over-legends.md)
 - [Sri Lanka Cricket Shines In High-Octane 12-Over Match Against Pakistan](./sri-lanka-cricket-shines-in-high-octane-12-over-match-against-pakistan.md)
 - [Virat Kohli Crowd Reaction Sparks Honest Debate After Rohit Sharma Dismissal](./virat-kohli-crowd-reaction-sparks-honest-debate-after-rohit-sharma-dismissal.md)
 - [Bangladesh T20 World Cup Venues: ICC Proposes Alternatives Amid Security Concerns](./bangladesh-t20-world-cup-venues-icc-proposes-alternatives-amid-security-concerns.md)
