@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Gautam Gambhir Faces 4 Key Criticisms After NZ ODI Loss](./gautam-gambhir-criticised-after-india-odi-loss-vs-new-zealand.md)
+- [Rahane Criticises Shubman Gill’s Captaincy After ODI Loss](./rahane-slams-shubman-gill-captaincy-post-odi-defeat.md)
+- [Virat Kohli Lone Battle: India Lose ODI Series to New Zealand](./virat-kohli-lone-battle-india-lose-odi-series-to-new-zealand.md)
+- [Australia Rest 5 Stars Ahead of T20 World Cup](./australia-skip-5-players-ahead-of-t20-world-cup.md)
+- [Shubman Gill’s Blunt Take: 5 Big Points on Rohit Sharma Form](./shubman-gills-blunt-take-on-rohit-sharma-form-shocks-fans.md)
 - [Life Threats to Bangladesh Cricketer Shock Fans Amid BCB Protests](./life-threats-to-bangladesh-cricketer-shock-fans-amid-bcb-protests.md)
 - [Babar Azam Feels Disrespected by Steve Smith in BBL Clash](./babar-azam-feels-disrespected-by-steve-smith-in-bbl-clash.md)
 - [Jamal Musiala Return: Bayern Munich Ready to Shine in Bundesliga](./jamal-musiala-return-bayern-munich-ready-to-shine-in-bundesliga.md)
