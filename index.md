@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Virat Kohli’s Brother Slams Manjrekar](./virat-kohli-brother-slams-manjrekar.md)
+- [Shubman Gill Batting Analysis: Ashwin Breaks Down Technique](./shubman-gill-batting-analysis-ashwin-breaks-down-technique.md)
+- [RCB Secure WPL 2026 Playoffs With Fifth Straight Win](./rcb-secure-wpl-2026-playoffs-with-fifth-straight-win.md)
+- [Shubman Gill Hints at Major Changes After ODI Loss](./shubman-gill-hints-at-major-changes-after-odi-loss.md)
+- [Ravindra Jadeja Advice: Ashwin Urges Experimentation](./ravindra-jadeja-advice-ashwin-urges-experimentation.md)
 - [Gautam Gambhir Faces 4 Key Criticisms After NZ ODI Loss](./gautam-gambhir-criticised-after-india-odi-loss-vs-new-zealand.md)
 - [Rahane Criticises Shubman Gill’s Captaincy After ODI Loss](./rahane-slams-shubman-gill-captaincy-post-odi-defeat.md)
 - [Virat Kohli Lone Battle: India Lose ODI Series to New Zealand](./virat-kohli-lone-battle-india-lose-odi-series-to-new-zealand.md)
