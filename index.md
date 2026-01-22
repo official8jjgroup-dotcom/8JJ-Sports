@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [SA20 Final Bound: 5-Star Pretoria Capitals Rout SEC](./sa20-final-bound-5-star-pretoria-capitals-rout-sec.md)
+- [Bangladesh Faces T20 World Cup 2026 Deadline](./bangladesh-t20-world-cup-2026-deadline.md)
+- [Abhishek Sharma Shines in 1st T20I vs New Zealand](.abhishek-sharma-shines-1st-t20i-vs-new-zealand.md)
+- [Jack Edwards Urges Sydney Sixers to Play Fearlessly in BBL Final](./jack-edwards-urges-sixers-to-play-fearlessly-bbl-final.md)
+- [Gautam Gambhir Praise: 5 Big Reasons Why His Job Is Toughest After PM](./gautam-gambhir-5-reasons-his-job-is-toughest-after-pm.md)
 - [European T20 League 5 Power Moves Fuel a New Cricket Era](./european-t20-league-power-moves-fuel-new-cricket-era.md)
 - [Ajinkya Rahane 5 Key Warnings After India’s ODI Series Loss](./ajinkya-rahane-5-key-warnings-after-indias-odi-series-loss.md)
 - [Suryakumar Yadav 5 Big Concerns as Rohit Issues Strong Warning](./suryakumar-yadav-5-big-concerns-as-rohit-issues-strong-warning.md)
