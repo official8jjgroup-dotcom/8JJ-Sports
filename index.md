@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [European T20 League 5 Power Moves Fuel a New Cricket Era](./european-t20-league-power-moves-fuel-new-cricket-era.md)
+- [Ajinkya Rahane 5 Key Warnings After India’s ODI Series Loss](./ajinkya-rahane-5-key-warnings-after-indias-odi-series-loss.md)
+- [Suryakumar Yadav 5 Big Concerns as Rohit Issues Strong Warning](./suryakumar-yadav-5-big-concerns-as-rohit-issues-strong-warning.md)
+- [Jemimah Rodrigues Guides Delhi Capitals to Win in WPL 2026](./jemimah-rodrigues-guides-delhi-capitals-to-win-in-wpl-2026.md)
+- [Will Malajczuk Smashes 1 Fastest U19 World Cup Century](./will-malajczuk-smashes-1-fastest-u19-world-cup-century.md)
 - [Virat Kohli’s Brother Slams Manjrekar](./virat-kohli-brother-slams-manjrekar.md)
 - [Shubman Gill Batting Analysis: Ashwin Breaks Down Technique](./shubman-gill-batting-analysis-ashwin-breaks-down-technique.md)
 - [RCB Secure WPL 2026 Playoffs With Fifth Straight Win](./rcb-secure-wpl-2026-playoffs-with-fifth-straight-win.md)
