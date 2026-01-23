@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Gujarat Giants Dominate WPL 2026 With 45-Run Victory](./wpl-2026-final-gujarat-giants-victory.md)
+- [Abhishek Sharma Creates Huge Gap in India’s T20 Batting](./abhishek-sharma-t20-batting-gap.md)
+- [Bangladesh Boycott Stance Shakes T20 World Cup](./bangladesh-boycott-t20-world-cup.md)
+- [Sunil Gavaskar Hails Varun Chakravarthy After 1st T20I](./gavaskar-hails-varun-chakravarthy-t20i.md)
+- [Sri Lanka Spinners Beat England in ODI Opener](./sri-lanka-spinners-beat-england-odi.md)
 - [SA20 Final Bound: 5-Star Pretoria Capitals Rout SEC](./sa20-final-bound-5-star-pretoria-capitals-rout-sec.md)
 - [Bangladesh Faces T20 World Cup 2026 Deadline](./bangladesh-t20-world-cup-2026-deadline.md)
 - [Abhishek Sharma Shines in 1st T20I vs New Zealand](.abhishek-sharma-shines-1st-t20i-vs-new-zealand.md)
