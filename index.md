@@ -9,6 +9,16 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [amazing-icc-t20-controversy-bangladesh-vs-india.md](./jasprit-bumrah-is-unplayable-in-t20-cricket.md)
+- [Pakistan T20 World Cup 2026 Squad](./pakistan-t20-world-cup-2026-squad.md)
+- [SA20 Final Sunrisers Seal Dominant Title](./sa20-final-sunrisers-seal-dominant-title.md)
+- [Pakistan Cricket Plans T20 World Cup Participation Hold](./pakistan-cricket-plans-t20-world-cup-participation-hold.md)
+- [Suryakumar Yadav Leads India With Dominant T20 Masterclass](./suryakumar-yadav-leads-india-with-dominant-t20-masterclass.md)
+- [India T20I Stun New Zealand With 3-0 Record](./india-t20i-stun-new-zealand-with-3-0-record.md)
+- [Jasprit Bumrah 10-Year Journey Quotes After T20I Masterclass](./jasprit-bumrah-10-year-journey-quotes-after-t20i-masterclass.md)
+- [Shahid Afridi Sparks Controversy Ahead of T20 World Cup](./shahid-afridi-sparks-controversy-ahead-of-t20-world-cup.md)
+- [Pakistan T20 Picks Decisions for World Cup 2026](./pakistan-t20-picks-decisions-for-world-cup-2026.md)
+- [Jasprit Bumrah Shines in Death Overs 3/17 vs NZ](./jasprit-bumrah-shines-in-death-overs-3-17-vs-nz.md)
 - [Amazing ICC T20 Controversy: Bangladesh Board Struggles to Overturn India Decision](./amazing-icc-t20-controversy-bangladesh-vs-india.md)
 - [Bangladesh Cricket Board Faces ICC DRC Hurdle Over T20 World Cup Venue](./bangladesh-cricket-board-faces-icc-drc-hurdle-t20-world-cup-venue.md)
 - [Abhishek Sharma Reveals Secret T20 Preparation Techniques Ahead of World Cup](./abhishek-sharma-secret-t20-preparation-world-cup.md)
