@@ -9,6 +9,11 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Rahul Dravid Highlights Lack of Red Ball Practice Behind India’s Test Batting Struggles](./dravid-red-ball-practice-test-batting.md)
+- [Cole Palmer Remains Chelsea Star](./cole-palmer-chelsea-star.md)
+- [South Africa Thrash West Indies By 9 Wickets in 1st T20I](./south-africa-thrash-west-indies-1st-t20i.md)
+- [Pakistan Triggers T20 World Cup 2026 Viewership Debate](./pakistan-triggers-t20-wc-2026-viewership-debate.md)
+- [UP Warriorz Sign Amy Jones as Replacement for Injured Phoebe Litchfield in WPL 2026](./up-warriorz-sign-amy-jones-wpl-2026.md)
 - [amazing-icc-t20-controversy-bangladesh-vs-india.md](./jasprit-bumrah-is-unplayable-in-t20-cricket.md)
 - [Pakistan T20 World Cup 2026 Squad](./pakistan-t20-world-cup-2026-squad.md)
 - [SA20 Final Sunrisers Seal Dominant Title](./sa20-final-sunrisers-seal-dominant-title.md)
