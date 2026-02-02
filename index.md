@@ -9,6 +9,12 @@ Stay updated with the latest cricket news, match results, and insights from arou
 
 ### 📰 Latest Articles
 
+- [Gautam Gambhir Urged to Think Long Term Amid India Test Transition](./gautam-gambhir-india-test-transition.md)
+- [Jaydev Unadkat Stars as Saurashtra Take 31-Run Lead Over Chandigarh](./jaydev-unadkat-saurashtra-31-run-lead-chandigarh.md)
+- [Virat Kohli Instagram Vanishes](./virat-kohli-instagram-vanishes.md)
+- [Rohit Sharma Leadership Guides India to Crucial ODI Series Triumph](./rohit-sharma-leadership-india-odi-series-win.md)
+- [Virat Kohli Brilliance Powers India to Dominant T20I Series Victory](./virat-kohli-brilliance-india-t20i-series-win.md)
+- [Real Madrid Survive Napoli Scare to Secure Champions League Last 16 Spot](./real-madrid-vs-napoli-ucl.md)
 - [Rahul Dravid Highlights Lack of Red Ball Practice Behind India’s Test Batting Struggles](./dravid-red-ball-practice-test-batting.md)
 - [Cole Palmer Remains Chelsea Star](./cole-palmer-chelsea-star.md)
 - [South Africa Thrash West Indies By 9 Wickets in 1st T20I](./south-africa-thrash-west-indies-1st-t20i.md)
