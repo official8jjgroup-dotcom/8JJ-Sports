@@ -1,7 +1,7 @@
 ---
 title: "Abrar Ahmed: 5 Key Reasons SRH Franchise Backed Pakistan Star"
 description: "Five important reasons why the SRH franchise decided to support Pakistani spinner Abrar Ahmed."
-date: 2025-12-19
+date: 2026-03-16
 author: "8JJ Sports"
 layout: post
 ---
