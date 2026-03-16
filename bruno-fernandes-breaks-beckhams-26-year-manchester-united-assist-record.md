@@ -1,7 +1,7 @@
 ---
-title: "Bruno Fernandes Breaks Beckham’s 26‑Year Manchester United Assist Record"
-description: "Manchester United captain Bruno Fernandes broke a 26‑year‑old assist record previously held by club legend David Beckham, setting a new benchmark for a single Premier League season."
-date: 2026‑03‑16
+title: "Bruno Fernandes Breaks Beckham’s 26-Year Manchester United Assist Record"
+description: "Manchester United captain Bruno Fernandes broke a 26-year-old assist record previously held by club legend David Beckham, setting a new benchmark for a single Premier League season."
+date: 2026-03-16
 author: "8JJ Sports"
 layout: post
 ---
