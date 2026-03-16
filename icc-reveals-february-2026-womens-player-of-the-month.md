@@ -1,7 +1,7 @@
 ---
 title: "ICC Reveals February 2026 Women’s Player of the Month"
 description: "The ICC has announced its February 2026 Women’s Player of the Month award, recognising outstanding performances from international women’s cricketers."
-date: 2026‑03‑16
+date: 2026-03-16
 author: "8JJ Sports"
 layout: post
 ---
