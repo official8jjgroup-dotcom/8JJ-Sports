@@ -1,7 +1,7 @@
 ---
 title: "New Zealand Women Cricket Team Crush South Africa in T20I Opener"
 description: "The New Zealand women’s cricket team delivered a dominant performance, beating South Africa by 80 runs in the first T20I of their five‑match series at Bay Oval."
-date: 2026‑03‑15
+date: 2026-03-15
 author: "8JJ Sports"
 layout: post
 ---
