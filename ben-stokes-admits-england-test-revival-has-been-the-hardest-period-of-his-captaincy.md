@@ -1,7 +1,7 @@
 ---
 title: "Ben Stokes Admits England Test Revival Has Been the Hardest Period of His Captaincy"
 description: "England Test captain Ben Stokes has described the aftermath of the 4-1 Ashes defeat as the toughest phase of his leadership, as he backs the team’s rebuild under Brendon McCullum."
-date: 2026-03-20
+date: 2026-03-24
 author: "8JJ Sports"
 layout: post
 ---
