@@ -1,7 +1,7 @@
 ---
 title: "IPL 2026 Indian Captains: Top 10 Leaders, Different Journeys"
 description: "An in‑depth look at the top Indian captains in IPL 2026 and how their unique leadership paths shaped their teams."
-date: 2026‑03‑25
+date: 2026-03-25
 author: "8JJ.com"
 layout: post
 ---
