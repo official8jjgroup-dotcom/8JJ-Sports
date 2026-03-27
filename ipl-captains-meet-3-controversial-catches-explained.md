@@ -1,7 +1,7 @@
 ---
 title: "IPL Captains Meet: 3 Controversial Catches Explained"
 description: "A breakdown of three controversial catch decisions involving captains in the IPL, and how they affected key matches and strategies."
-date: 2026‑03‑26
+date: 2026-03-26
 author: "8JJ.com"
 layout: post
 ---
