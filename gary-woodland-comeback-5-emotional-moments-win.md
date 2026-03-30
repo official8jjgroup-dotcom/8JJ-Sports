@@ -1,7 +1,7 @@
 ---
 title: "Gary Woodland Comeback: 5 Emotional Moments From His Inspiring Win"
 description: "A breakdown of the most moving and impactful moments from Gary Woodland’s emotional comeback victory on the PGA Tour in 2026."
-date: 2026‑03‑30
+date: 2026-03-30
 author: "8JJ Sports"
 layout: post
 ---
