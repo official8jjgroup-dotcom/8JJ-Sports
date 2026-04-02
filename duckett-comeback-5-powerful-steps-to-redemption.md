@@ -1,7 +1,7 @@
 ---
 title: "Ben Duckett Comeback: 5 Powerful Steps to Redemption"
 description: "A breakdown of Ben Duckett’s five key steps to a successful cricket comeback, focusing on mindset, preparation, and performance."
-date: 2026‑04‑02
+date: 2026-04-02
 author: "8JJ Cricket"
 layout: post
 ---
