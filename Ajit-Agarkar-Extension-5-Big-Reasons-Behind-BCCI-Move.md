@@ -10,10 +10,9 @@ layout: post
 
 ---
 
-The BCCI is set to extend Ajit Agarkar’s tenure as chief selector, highlighting confidence in his leadership and long-term vision. :contentReference[oaicite:0]{index=0}  
+The BCCI is set to extend Ajit Agarkar’s tenure as chief selector, highlighting confidence in his leadership and long-term vision. 
 
-India’s consistent success across ICC tournaments and smooth squad transitions have played a key role in this decision. :contentReference[oaicite:1]{index=1}  
-
+India’s consistent success across ICC tournaments and smooth squad transitions have played a key role in this decision.
 ---
 
 You can read the **full original article on 8jj.com** here:  
