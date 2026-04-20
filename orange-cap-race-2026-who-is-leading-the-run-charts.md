@@ -1,28 +1,24 @@
 ---
-title: "Orange Cap Race 2026 – Who Is Leading the Run Charts?"
-description: "Follow the live Orange Cap race of IPL 2026 as the top batters fire their teams to big totals."
-date: 2026-04-19
+title: "Orange Cap Race 2026: Who Is Leading the Run Charts?"
+description: "A look at the top run‑scorers in IPL 2026 and what it means for the Orange Cap race."
+date: 2026-04-12
 author: "8JJ Sports"
 layout: post
 ---
 
-# [Orange Cap Race 2026 – Who Is Leading the Run Charts?](https://8jj.com/orange-cap-race-2026-who-is-leading-the-run-charts/)
+# [Orange Cap Race 2026: Who Is Leading the Run Charts?](https://8jj.com/orange-cap-race-2026-who-is-leading-the-run-charts/)
 
 ---
 
-The Orange Cap race in IPL 2026 is heating up, with established stars and young guns battling for the top spot on the run charts. 
+The 2026 IPL season has thrown up a fiercely competitive Orange Cap race, with multiple batters stacking up big scores across venues and conditions.  
 
-Shubman Gill has surged to the head of the table, piling on 251 runs in a handful of matches and briefly moving past Virat Kohli to claim the prized Orange Cap. [web:1][web:2] Gill’s fluent centuries and match‑winning knocks have not only lifted Gujarat Titans but also silenced early doubts about his consistency in the middle order. 
-
-Meanwhile, Yashasvi Jaiswal of Rajasthan Royals has stayed in the reckoning, cruising along at a strike rate above 160 and keeping his name in the conversation for the top‑batter tag. [web:4] Sameer Rizvi of Delhi Capitals has also impressed, slotting into the top 10 early in the season and showing why franchises are increasingly banking on exciting newcomers. 
+Standout performances from both established stars and emerging names have kept the run charts extremely tight, turning every innings into a potential game‑changer in the race for the top run‑scorer title.  
 ---
 
 You can read the **full original article on 8jj.com** here:  
-👉 [Orange Cap Race 2026 – Who Is Leading the Run Charts?](https://8jj.com/orange-cap-race-2026-who-is-leading-the-run-charts/)
+👉 [Orange Cap Race 2026](https://8jj.com/orange-cap-race-2026-who-is-leading-the-run-charts/)
 
 ---
 
 ## Related Reading  
-- Visit [8jj.com](https://8jj.com/) for more IPL stats, match previews, and fantasy tips.  
-- Check out our [Purple Cap 2026 – The wicket‑takers defining IPL](https://8jj.com/purple-cap-2026-the-wicket-takers-defining-ipl/) feature for the bowling side of the story.  
-- Also read [Highest score in IPL 2026 – Record‑breaking totals](https://8jj.com/highest-score-in-ipl-2026-record-breaking-totals/) to track the biggest team scores of the season.  
+- Visit [8jj.com](https://8jj.com/) for more IPL 2026 updates, stats and expert analysis.
