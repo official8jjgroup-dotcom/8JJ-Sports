@@ -10,12 +10,11 @@ layout: post
 
 ---
 
-The Orange Cap race in IPL 2026 is heating up, with established stars and young guns battling for the top spot on the run charts. [web:1][web:2]  
+The Orange Cap race in IPL 2026 is heating up, with established stars and young guns battling for the top spot on the run charts. 
 
-Shubman Gill has surged to the head of the table, piling on 251 runs in a handful of matches and briefly moving past Virat Kohli to claim the prized Orange Cap. [web:1][web:2] Gill’s fluent centuries and match‑winning knocks have not only lifted Gujarat Titans but also silenced early doubts about his consistency in the middle order. [web:1]  
+Shubman Gill has surged to the head of the table, piling on 251 runs in a handful of matches and briefly moving past Virat Kohli to claim the prized Orange Cap. [web:1][web:2] Gill’s fluent centuries and match‑winning knocks have not only lifted Gujarat Titans but also silenced early doubts about his consistency in the middle order. 
 
-Meanwhile, Yashasvi Jaiswal of Rajasthan Royals has stayed in the reckoning, cruising along at a strike rate above 160 and keeping his name in the conversation for the top‑batter tag. [web:4] Sameer Rizvi of Delhi Capitals has also impressed, slotting into the top 10 early in the season and showing why franchises are increasingly banking on exciting newcomers. [web:4]  
-
+Meanwhile, Yashasvi Jaiswal of Rajasthan Royals has stayed in the reckoning, cruising along at a strike rate above 160 and keeping his name in the conversation for the top‑batter tag. [web:4] Sameer Rizvi of Delhi Capitals has also impressed, slotting into the top 10 early in the season and showing why franchises are increasingly banking on exciting newcomers. 
 ---
 
 You can read the **full original article on 8jj.com** here:  
